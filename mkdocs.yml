@@ -2,31 +2,31 @@
 site_name: Elixir Masters
 site_description: "Learn To Code With Erlang/Elixir Programming Languages And Phoenix Framework."
 site_author: "Anil Kulkarni"
-site_url: "https://www.elixirmasters.com"
+site_url: "http://www.elixirmasters.com"
 
 # Copyright
 copyright: "Copyright &copy; 2020 Anil Kulkarni, Octallium Inc."
 
 # Configuration
 theme:
-    name: "material"
-    language: "en"
-    logo: "images/brand/elixir-masters-logo.png"
-    favicon: "images/brand/elixir-masters-favicon.png"
-    palette:
-        primary: "white"
-        accent: "indigo"
-    font:
-        text: "IBM Plex Sans"
-        code: "Roboto Mono"
-    features:
-        - navigation.tabs
-        - navigation.instant
+      name: "material"
+      language: "en"
+      logo: "images/brand/elixir-masters-logo.png"
+      favicon: "images/brand/elixir-masters-favicon.png"
+      palette:
+            primary: "white"
+            accent: "indigo"
+      font:
+            text: "IBM Plex Sans"
+            code: "Roboto Mono"
+      features:
+            - navigation.tabs
+            - navigation.instant
 
 # Google Analytics
 google_analytics:
-    - UA-121309781-4
-    - auto
+      - UA-121309781-4
+      - auto
 
 # Plugins
 # plugins:
@@ -34,86 +34,86 @@ google_analytics:
 
 # Extensions
 markdown_extensions:
-    - meta
-    - admonition
-    - codehilite:
-          guess_lang: false
-          linenums: true
-    - toc:
-          permalink: true
-    - pymdownx.betterem:
-          smart_enable: all
-    - pymdownx.caret
-    - pymdownx.critic
-    - pymdownx.details
-    - pymdownx.emoji:
-          emoji_generator: !!python/name:pymdownx.emoji.to_svg
-    - pymdownx.inlinehilite
-    - pymdownx.magiclink
-    - pymdownx.mark
-    - pymdownx.smartsymbols
-    - pymdownx.superfences
-    - pymdownx.tasklist:
-          custom_checkbox: true
-    - pymdownx.tilde
-    - pymdownx.highlight:
-          linenums: true
+      - meta
+      - admonition
+      - codehilite:
+              guess_lang: false
+              linenums: true
+      - toc:
+              permalink: true
+      - pymdownx.betterem:
+              smart_enable: all
+      - pymdownx.caret
+      - pymdownx.critic
+      - pymdownx.details
+      - pymdownx.emoji:
+              emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      - pymdownx.inlinehilite
+      - pymdownx.magiclink
+      - pymdownx.mark
+      - pymdownx.smartsymbols
+      - pymdownx.superfences
+      - pymdownx.tasklist:
+              custom_checkbox: true
+      - pymdownx.tilde
+      - pymdownx.highlight:
+              linenums: true
 
 # Nav
 nav:
-    - Home: "index.md"
-    - About:
-          - "About Me": "about/about-me.md"
-    - Basics:
-          - Installation: "tutorials/basics/installation.md"
-          - IEx: "tutorials/basics/iex.md"
-          - "Hello Elixir": "tutorials/basics/hello_elixir.md"
-          - "Data Types": "tutorials/basics/data-types.md"
-          - "Basic Operations": "tutorials/basics/basic-operations.md"
-          - "Modules and Functions": "tutorials/basics/modules-functions.md"
-          - "Pipe Operator": "tutorials/basics/pipe.md"
-          - "Pattern Matching": "tutorials/basics/pattern-matching.md"
-          - Mix: "tutorials/basics/mix.md"
-          - Strings: "tutorials/basics/strings.md"
-          - Sigils: "tutorials/basics/sigil.md"
-          - Lists: "tutorials/basics/lists.md"
-          - Map: "tutorials/basics/map.md"
-          - List: "tutorials/basics/lists.md"
-          - "Case, Cond and If": "tutorials/basics/case-cond-if.md"
-          - Streams: "tutorials/basics/stream.md"
-          - Comprehensions: "tutorials/basics/comprehensions.md"
-          - Struct: "tutorials/basics/struct.md"
-          - Doctest: "tutorials/basics/doctest.md"
-          - "File Handling": "tutorials/basics/file-handling.md"
-          - "Alias, Require and Import": "tutorials/basics/alias-require-import.md"
-          - "Erlang Libraries": "tutorials/basics/erlang-lib.md"
-          - Testing: "tutorials/basics/testing.md"
-          - Processes: "tutorials/basics/processes.md"
-    - OTP:
-          - Spawn: "tutorials/otp/spawn.md"
-          - Agent: "tutorials/otp/agent.md"
-          - GenServer: "tutorials/otp/genserver.md"
-          - Supervisor: "tutorials/otp/supervisor.md"
-          - Application: "tutorials/otp/application.md"
-          - ETS: "tutorials/otp/ets.md"
-          - Mnesia: "tutorials/otp/mnesia.md"
-          - Umbrella: "tutorials/otp/umbrella.md"
-          - Task: "tutorials/otp/task.md"
-          - Release: "tutorials/otp/release.md"
-    - Ecto:
-          - Introduction: "tutorials/ecto/introduction.md"
-    - Phoenix:
-          - Introduction: "tutorials/phoenix/introduction.md"
-    - Courses:
-          - Introduction: "courses/introduction.md"
-    - Subscribe:
-          - Subscribe: "subscribe.md"
-    - Contact:
-          - Connect: "contact/contact.md"
+      - Home: "index.md"
+      - About:
+              - "About Me": "about/about-me.md"
+      - Basics:
+              - Installation: "tutorials/basics/installation.md"
+              - IEx: "tutorials/basics/iex.md"
+              - "Hello Elixir": "tutorials/basics/hello_elixir.md"
+              - "Data Types": "tutorials/basics/data-types.md"
+              - "Basic Operations": "tutorials/basics/basic-operations.md"
+              - "Modules and Functions": "tutorials/basics/modules-functions.md"
+              - "Pipe Operator": "tutorials/basics/pipe.md"
+              - "Pattern Matching": "tutorials/basics/pattern-matching.md"
+              - Mix: "tutorials/basics/mix.md"
+              - Strings: "tutorials/basics/strings.md"
+              - Sigils: "tutorials/basics/sigil.md"
+              - Lists: "tutorials/basics/lists.md"
+              - Map: "tutorials/basics/map.md"
+              - List: "tutorials/basics/lists.md"
+              - "Case, Cond and If": "tutorials/basics/case-cond-if.md"
+              - Streams: "tutorials/basics/stream.md"
+              - Comprehensions: "tutorials/basics/comprehensions.md"
+              - Struct: "tutorials/basics/struct.md"
+              - Doctest: "tutorials/basics/doctest.md"
+              - "File Handling": "tutorials/basics/file-handling.md"
+              - "Alias, Require and Import": "tutorials/basics/alias-require-import.md"
+              - "Erlang Libraries": "tutorials/basics/erlang-lib.md"
+              - Testing: "tutorials/basics/testing.md"
+              - Processes: "tutorials/basics/processes.md"
+      - OTP:
+              - Spawn: "tutorials/otp/spawn.md"
+              - Agent: "tutorials/otp/agent.md"
+              - GenServer: "tutorials/otp/genserver.md"
+              - Supervisor: "tutorials/otp/supervisor.md"
+              - Application: "tutorials/otp/application.md"
+              - ETS: "tutorials/otp/ets.md"
+              - Mnesia: "tutorials/otp/mnesia.md"
+              - Umbrella: "tutorials/otp/umbrella.md"
+              - Task: "tutorials/otp/task.md"
+              - Release: "tutorials/otp/release.md"
+      - Ecto:
+              - Introduction: "tutorials/ecto/introduction.md"
+      - Phoenix:
+              - Introduction: "tutorials/phoenix/introduction.md"
+      - Courses:
+              - Introduction: "courses/introduction.md"
+      - Subscribe:
+              - Subscribe: "subscribe.md"
+      - Contact:
+              - Connect: "contact/contact.md"
 
 extra:
-    social:
-        - icon: fontawesome/brands/twitter
-          link: https://twitter.com/elixir_masters
-        - icon: fontawesome/brands/youtube
-          link: https://www.youtube.com/channel/UCx4PK5QEdHbEPXurXQqSxPw
+      social:
+            - icon: fontawesome/brands/twitter
+              link: https://twitter.com/elixir_masters
+            - icon: fontawesome/brands/youtube
+              link: https://www.youtube.com/channel/UCx4PK5QEdHbEPXurXQqSxPw

@@ -1,4 +1,4 @@
-title: Installing Elixir
+title: Installing Elixir 🎸🎸
 description: Learn how to install Elixir on your machine
 
 # Installation
@@ -42,6 +42,3 @@ Line 3 indicates that Elixir 1.11.0 has been installed and Elixir has been compi
 ## Setting up your editor
 
 Elixir is supported in all the leading editors and IDE's, incase you are using **Visual Studio Code**, you only need to install [this](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) plugin.
-
-<!-- Buy me a coffee -->
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="anilkulkarni" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000" data-font-color="#000" data-coffee-color="#fff" ></script>

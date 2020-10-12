@@ -1,6 +1,8 @@
 title: Welcome To Elixir Masters!
 description: Coding Tutorials For Elixir, Erlang And Phoenix Framework.
 
+<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="anilkulkarni" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting. You can now buy me a Coffee!" data-color="#FF813F" data-position="" data-x_margin="18" data-y_margin="18"></script>
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -25,7 +27,7 @@ It implies that, _"If you only have a hammer, then every problem looks like a na
 
 Let's consider this, the world basically works by **communication**, communication is required in every aspects of life, products communicate their utility, services communicate their usability, consumer communicate their requirements, etc, and in this world of communication **data** is constantly being passed from one point to another.
 
-**Elixir** is extremely well suited for these applications, it really shines when data has to be transformed and transferred in a highly concurrent, distributed and fault tolerant manner. Often, data has to be transformed to suit the end users, Elixir with all its eco-system is a perfectly capable system for it. Perhaps, that's why products like **WhatsApp, Discord & Bleacher Report** rely so highly on it.
+**Elixir** is extremely well suited for these applications, it really shines when data has to be transformed and transferred in a highly concurrent, distributed and fault tolerant manner. Often, data has to be transformed to suit the end users, Elixir with all its eco-system is a perfectly capable system for it. Perhaps, that's why products like **WhatsApp (Erlang), Discord & Bleacher Report** rely so highly on it.
 
 ## Understanding Elixir
 
