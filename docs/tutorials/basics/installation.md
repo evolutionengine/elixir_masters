@@ -3,11 +3,11 @@ description: Learn how to install Elixir on your machine
 
 # Installation
 
-![Introduction to Elixir](../../../images/tutorial-elixir/octallium-installing-elixir.jpg)
+![Introduction to Elixir](../../../images/tutorial-elixir/installing-elixir.png)
 
 Learn how to install Elixir and how to setup your machine for development.
 
-At the time of writing, the latest stable version is Elixir 1.10.0, you may have a different version depending when you are reading this tutorial.
+At the time of writing, the latest stable version is Elixir 1.11.0, you may have a different version depending when you are reading this tutorial.
 
 ## Mac OS
 
@@ -32,31 +32,16 @@ You can check the installation, by typing the following in your terminal or powe
 Output -
 
 ```bash hl_lines="3"
-Erlang/OTP 22 [erts-10.6.4] [source] [64-bit] [smp:4:4] [ds:4:4:10] [async-threads:1] [hipe] [dtrace]
+Erlang/OTP 23 [erts-11.1.1] [source] [64-bit] [smp:4:4] [ds:4:4:10] [async-threads:1] [hipe] [dtrace]
 
-Elixir 1.10.2 (compiled with Erlang/OTP 22)
+Elixir 1.11.0 (compiled with Erlang/OTP 23)
 ```
 
-Line 3 indicates that Elixir 1.10.2 has been installed and Elixir has been compiled with Erlang 22.0
+Line 3 indicates that Elixir 1.11.0 has been installed and Elixir has been compiled with Erlang 23.0
 
 ## Setting up your editor
 
-Elixir is supported in all the leading editors and IDE's, two of the most commonly used editors are -
+Elixir is supported in all the leading editors and IDE's, incase you are using **Visual Studio Code**, you only need to install [this](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) plugin.
 
-### VS Code
-
-You only need to install [this](https://marketplace.visualstudio.com/items?itemName=elixir-lsp.elixir-ls) plugin. Optionally you can also install [this](https://marketplace.visualstudio.com/items?itemName=sammkj.vscode-elixir-formatter) plugin for code formatting.
-
-### Atom
-
-You need to install [this](https://atom.io/packages/language-elixir) plugin.
-
-Further, I have read nice reviews for [Spacemacs](https://www.spacemacs.org/), however I have not tested it personally.
-
-## Please Consider a Donation ❤️
-
-If you would like to see articles coming up much faster then please consider a small donation. All the work is provided free of cost and completely open source, but it needs your support and love to keep the activity sustainable.
-
-Any support is genuinely appreciated, you can help by sending a small donation by clicking the below link:
-
-[<img src="../../../../images/paypal-logo.png" alt="Paypal" title="Paypal" width="200"/>](https://www.paypal.me/octallium)
+<!-- Buy me a coffee -->
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="anilkulkarni" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000" data-font-color="#000" data-coffee-color="#fff" ></script>
