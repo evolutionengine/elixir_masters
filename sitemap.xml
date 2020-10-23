@@ -1,167 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>http://www.elixirmasters.com/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/about/about-me/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/installation/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/iex/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/hello_elixir/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/data-types/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/basic-operations/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/modules-functions/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/pipe/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/pattern-matching/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/mix/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/strings/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/sigil/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/lists/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/map/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/lists/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/case-cond-if/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/stream/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/comprehensions/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/struct/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/doctest/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/file-handling/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/alias-require-import/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/erlang-lib/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/testing/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/basics/processes/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/otp/spawn/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/otp/agent/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/otp/genserver/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/otp/supervisor/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/otp/application/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/otp/ets/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/otp/mnesia/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/otp/umbrella/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/otp/task/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/otp/release/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/ecto/introduction/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/tutorials/phoenix/introduction/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/courses/introduction/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/subscribe/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://www.elixirmasters.com/contact/contact/</loc>
-     <lastmod>2020-10-12</lastmod>
+     <lastmod>2020-10-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
